@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282031399974",
+    "project_id": "movieticker-6e372",
+    "storage_bucket": "movieticker-6e372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282031399974:android:75e27ffb13f7a8fdac72e7",
+        "android_client_info": {
+          "package_name": "com.example.moviesticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282031399974-fltpco74dsr6on93vldvpov72eh44al5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe11HpTlurb17bDIMw_zhvJ0E8Q6huuZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282031399974-fltpco74dsr6on93vldvpov72eh44al5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
