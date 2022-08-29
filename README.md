@@ -3,4 +3,4 @@ An Android application to view movies currently on cinema. Buy tickets and store
 
 ## Preview
 
-<img src="/assets/preview.gif" height="250"/>
+<img src="/assets/preview.gif" height="500"/>
